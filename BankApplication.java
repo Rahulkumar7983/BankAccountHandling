@@ -116,28 +116,3 @@ class BankAccount {
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-/*
- * i have created java bank application project in this project i made the
- * program which takes the input tasks
- * from the user to perform weather he want to deposit the money aur he wants to
- * withdraw the money aur he want to see the
- * previous transaction aur he want to check the balance of his account
- *
- *
- *
- *
- *
- *
- */
